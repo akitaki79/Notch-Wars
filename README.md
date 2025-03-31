@@ -11,8 +11,9 @@ NotchWar is a card game similar to War, with a unique rule where a card of lower
 
 ## Installation & Run
 ```sh
-git clone https://github.com/yourusername/notchwar.git
+git clone https://github.com/akitaki79/Notch-Wars.git
 cd notchwar
+
 javac Main.java
 java Main
 ```
